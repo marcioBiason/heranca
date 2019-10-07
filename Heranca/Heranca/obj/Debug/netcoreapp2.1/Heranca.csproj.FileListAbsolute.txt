@@ -1,0 +1,11 @@
+C:\ProjetoGit\Heranca\Heranca\bin\Debug\netcoreapp2.1\Heranca.deps.json
+C:\ProjetoGit\Heranca\Heranca\bin\Debug\netcoreapp2.1\Heranca.runtimeconfig.json
+C:\ProjetoGit\Heranca\Heranca\bin\Debug\netcoreapp2.1\Heranca.runtimeconfig.dev.json
+C:\ProjetoGit\Heranca\Heranca\bin\Debug\netcoreapp2.1\Heranca.dll
+C:\ProjetoGit\Heranca\Heranca\bin\Debug\netcoreapp2.1\Heranca.pdb
+C:\ProjetoGit\Heranca\Heranca\obj\Debug\netcoreapp2.1\Heranca.csprojAssemblyReference.cache
+C:\ProjetoGit\Heranca\Heranca\obj\Debug\netcoreapp2.1\Heranca.csproj.CoreCompileInputs.cache
+C:\ProjetoGit\Heranca\Heranca\obj\Debug\netcoreapp2.1\Heranca.AssemblyInfoInputs.cache
+C:\ProjetoGit\Heranca\Heranca\obj\Debug\netcoreapp2.1\Heranca.AssemblyInfo.cs
+C:\ProjetoGit\Heranca\Heranca\obj\Debug\netcoreapp2.1\Heranca.dll
+C:\ProjetoGit\Heranca\Heranca\obj\Debug\netcoreapp2.1\Heranca.pdb
